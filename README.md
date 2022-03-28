@@ -44,7 +44,11 @@ M3 roll-in t-nut x1
 
 ## Power
 
-I powered my nevermores with a common 24V power straight from the PSU in order to reduce the number of wires added to the Z chain. I ran a single signal cable from the MCU to a wago which triggers all four. I've included my bed wago mount in the repo.
+I powered my nevermores with a common 24V power straight from the PSU in order to reduce the number of wires added to the Z chain. I then ran a single signal cable from the MCU to a wago which triggers all four nevermores. I've included my bed wago mount in the repo.
+
+## Macro Control
+
+See my other repo for macros: https://github.com/Outrider305/Doom_Trident_300_klipper_config_backup
 
 ## Contact
 
