@@ -4,9 +4,9 @@ Spacer made for mounting mvieleer's modded v5 duo nevermore plenum to the Voron 
 Currently optimized for 300 Trident carriages and regular v5 Nevermore cartridges. Using XL Nevermore cartridges will need 10mm more clearance. Contact me if you need 250 or 350 Trident versions.
 
 
-<img src="nevermore_spacer.png" width="800">
+<img src="images/nevermore_spacer.png" width="800">
 
-<img src= "nevermore_spacer_installed.jpg" width="800">
+<img src= "images/nevermore_spacer_installed.jpg" width="800">
 
 Based on and created from the original Nevermore CAD located at: https://github.com/nevermore3d/Nevermore_Micro.
 
