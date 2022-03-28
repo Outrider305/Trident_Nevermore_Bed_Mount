@@ -37,7 +37,7 @@ M3 roll-in t-nut x1
 
 6. Install Nevermore plenum onto spacer, but don't fully tighten M3x8 screws.
 
-7. Partially thread M3x25 screw into roll-in nut.
+7. Partially thread M3x25 screw into roll-in nut. (See https://github.com/Outrider305/Nevermore_Spacer_Mount/blob/main/Images/nevermore_side_mount_screw.png)
 
 8. Check alignment of Nevermore with extrusion, and fully tighten M3 screws.
 
@@ -48,6 +48,11 @@ I powered my nevermores with a common 24V power straight from the PSU in order t
 ## Macro Control
 
 See my other repo for macros: https://github.com/Outrider305/Doom_Trident_300_klipper_config_backup
+
+## Special Thanks
+
+- Thanks to 0ndsk4 for creating the Nevermore and Mvieleer for sharing his modded plenum.
+- Thanks to Chanders on the Voron Discord for feedback and picture of the spacer.
 
 ## Contact
 
