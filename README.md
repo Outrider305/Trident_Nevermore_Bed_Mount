@@ -5,7 +5,7 @@ Currently optimized for regular v5 Nevermore cartridges. Using XL Nevermore cart
 
 I have only printed the 300 version. The 250 and 350 versions are currently untested. Feedback on those parts is appreciated.
 
-<img src="Images/nevermore_spacer.png" width="700">
+<img src="Images/nevermore_spacers.png" width="700">
 
 <img src="Images/nevermore_spacer_installed.jpg" width="700">
 
