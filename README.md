@@ -49,7 +49,9 @@ I powered my nevermores with a common 24V power straight from the PSU in order t
 
 ## Macro Control
 
-See my other repo for macros: https://github.com/Outrider305/Doom_Trident_300_klipper_config_backup
+Original source for macros: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
+
+See my other repo for Trident based example of macro: https://github.com/Outrider305/Doom_Trident_300_klipper_config_backup
 
 ## Special Thanks
 
