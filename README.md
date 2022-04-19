@@ -9,7 +9,7 @@ I have only printed the 300 version. The 250 and 350 versions are currently unte
 
 <img src="Images/nevermore_spacer_installed.jpg" width="700">
 
-Based on and created from the original Nevermore CAD located at: https://github.com/nevermore3d/Nevermore_Micro.
+Based on the <a href="https://github.com/nevermore3d/Nevermore_Micro"> original Nevermore CAD.</a>
 
 ## BOM (per spacer)
 
@@ -39,7 +39,7 @@ M3 roll-in t-nut x1
 
 6. Install Nevermore plenum onto spacer, but don't fully tighten M3x8 screws.
 
-7. Partially thread M3x25 screw into roll-in nut. (See https://github.com/Outrider305/Nevermore_Spacer_Mount/blob/main/Images/nevermore_side_mount_screw.png)
+7. Partially thread M3x25 screw into roll-in nut. <a href="https://github.com/Outrider305/Nevermore_Spacer_Mount/blob/main/Images/nevermore_side_mount_screw.png"> See photo for example</a>
 
 8. Check alignment of Nevermore with extrusion, and fully tighten M3 screws.
 
