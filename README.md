@@ -47,6 +47,14 @@ M3 roll-in t-nut x1
 
 I powered my nevermores with a common 24V power straight from the PSU in order to reduce the number of wires added to the Z chain. I then ran a single signal cable from the MCU to a wago which triggers all four nevermores. I've included my bed wago mount in the repo.
 
+Trident Power Wago STL:
+- Top Row
+	- 5 slot wago: 24V+ power from PSU
+	- 2 slot wago: 24V- signal wire for under bed LED lights
+	- 3 slot wago: 24V- signal wire for Nevermore Bed Fans
+- Bottom Row
+	- 2 slot wagos for Mains (L/N/G), thermal fuse, and bed thermistor
+
 ## Macro Control
 
 <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans"> Ellis Bed Fans macros </a>
