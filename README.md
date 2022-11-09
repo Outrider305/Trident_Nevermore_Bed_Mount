@@ -49,11 +49,9 @@ I powered my nevermores with a common 24V power straight from the PSU in order t
 
 ## Macro Control
 
-Original source for macros: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
+<a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans"> Ellis Bed Fans macros </a>
 
-See my other repo for Trident based example of macro: https://github.com/Outrider305/Doom_Trident_300_klipper_config_backup
-
-## Special Thanks
+## Thanks
 
 - Thanks to 0ndsk4 for creating the Nevermore and Mvieleer for sharing his modded plenum.
 - Thanks to Chanders on the Voron Discord for feedback and picture of the spacer.
