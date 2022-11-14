@@ -1,7 +1,7 @@
 # Nevermore_Spacer_Mount
-Spacer made for mounting mvieleer's modded v5 duo nevermore plenum to the Voron Trident's bed carriage.
+Spacer made for mounting <a href="https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo/Mods/Rear-Backmount-Plenum_by-mvieleers"> mvieleer's rear backmount nevermore plenum mod</a> to the Voron Trident's bed carriage.
 
-Currently optimized for regular v5 Nevermore cartridges. Using XL Nevermore cartridges requires 10mm more clearance. 
+Currently optimized for regular v5 Nevermore cartridges. Using XL Nevermore cartridges requires 10mm more clearance. Check spacing before using XL cartridges.
 
 I have only printed the 300 version. The 250 and 350 versions are currently untested. Feedback on those parts is appreciated.
 
@@ -61,7 +61,6 @@ Trident Power Wago STL:
 
 ## Thanks
 
-- Thanks to 0ndsk4 for creating the Nevermore and Mvieleer for sharing his modded plenum.
 - Thanks to Chanders on the Voron Discord for feedback and picture of the spacer.
 
 ## Contact
