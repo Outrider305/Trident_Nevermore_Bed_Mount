@@ -1,6 +1,8 @@
 # Nevermore_Spacer_Mount
 Spacer made for mounting <a href="https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo/Mods/Rear-Backmount-Plenum_by-mvieleers"> mvieleer's rear backmount nevermore plenum mod</a> to the Voron Trident's bed carriage.
 
+# If you're thinking about printing this, version 2 is coming in the next few days. The new version will require less filament to print and will have a universal mounting design that fits any Trident size.
+
 Currently optimized for regular v5 Nevermore cartridges. Using XL Nevermore cartridges requires 10mm more clearance. Check spacing before using XL cartridges.
 
 I have only printed the 300 version. The 250 and 350 versions are currently untested. Feedback on those parts is appreciated.
