@@ -1,6 +1,6 @@
 # Trident_Nevermore_Bed_Fans
 
-# WIP - Undergoing initial test prints. STLs uploaded. Print at your own risk!
+# WIP - Undergoing initial test prints. STLs uploaded for brave beta testers. Print at your own risk!
 
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
