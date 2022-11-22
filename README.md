@@ -2,7 +2,7 @@
 
 # WIP - Undergoing initial test prints. STLs to be uploaded later today.
 
-<img src="Images/Trident_Nevermore_Bed_Fans" width="700">
+<img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
 Total redesign of my original Nevermore Spacer Mount for Voron Tridents. This version utilizes it's own modded V5 Duo plenum and cartridges with a third set of magnets. I found that any slight bump or the occasional z-hop with the original parts would cause a cartridge loaded with carbon to fall off the plenum. Hopefully the added magents will solve that problem.
 
