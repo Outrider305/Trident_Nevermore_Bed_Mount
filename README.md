@@ -1,6 +1,6 @@
 # Trident_Nevermore_Bed_Fans
 
-# WIP - Undergoing initial test prints. STLs uploaded for brave beta testers. Print at your own risk!
+# WIP - Undergoing initial test prints. Bracket and plenum fit confirmed to fit 
 
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
@@ -15,25 +15,39 @@ Intake orientation for the Nevermore has been inverted to draw cooler air from b
 There is also now one mounting bracket for all Trident sizes and will reduce filament usage for larger Trident owners. The bracket includes mounting points for 3-slot Wago 221s to power the nevermores. Details below on how I powered my nevermores. I've included a Wago mount for regular Trident bed power connections. I've also left my older large Wago mount with space for extra 24V mods.
 
 
-## BOM (per each Nevermore)
+## BOM (per Nevermore)
 
 M5x8 screws x2
 
-M5 roll-in t-nut x2
+M5 roll-in t-nut/hammerhead nut x2
 
 M3x5x4 (Standard Voron size) Heatset Inserts x3 
 
-M3x8 screws x3
+M3x8 screws x1
+
+M3x12 screws x2
 
 3-slot Wago 221s x2
 
-## Assembly
+24 AWG wiring
 
-WIP
+## Assembly - WIP
+
+1. Install and wire 5015 fans according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket.
+
+2. Glue magnets in place on both plenum and cartridge bodies.
+
+3. Insert two M3 heatset inserts on mounting bracket and one at the rear of the plenum.
+
+4. Install 3-slot Wagos onto bracket (if you will use them).
+
+5. Mount bracket onto Trident bed extrusion with M5 screws, but don't fully tighten them. You can then adjust bracket positioning according to your bed size and cartridge size.
+
+6. Run additional 24V+ and 24V- wires through the Z chain to the Nevermore wagos. Details below.
 
 ## Power
 
-I wired my nevermores in parallel with a common +24V power source from the PSU to a wago. A single -24V signal wire can then be run from the MCU to a wago to control both Nevermores. This method reduces the amount of added wires to the Trident bed chain.
+I wired my nevermores in parallel with +24V power straight from the PSU to the bed wago and a single -24V signal wire from the MCU to a wago which controls both Nevermores. This method reduces the amount of added wires to the Trident bed chain.
 
 Trident_Bed_Wago_Large:
 - Top Row
