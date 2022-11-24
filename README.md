@@ -1,6 +1,6 @@
 # Trident_Nevermore_Bed_Fans
 
-# WIP - Undergoing initial test prints. Bracket and plenum fit confirmed to fit 
+# WIP - Undergoing initial test prints. Bracket and plenum fit confirmed to fit. Printing out cartridges for magnet strength testing.
 
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
@@ -14,30 +14,36 @@ Intake orientation for the Nevermore has been inverted to draw cooler air from b
 
 There is also now one mounting bracket for all Trident sizes and will reduce filament usage for larger Trident owners. The bracket includes mounting points for 3-slot Wago 221s to power the nevermores. Details below on how I powered my nevermores. I've included a Wago mount for regular Trident bed power connections. I've also left my older large Wago mount with space for extra 24V mods.
 
+## Change Log
+
+- **11-24-2022**
+	- Updated brackets to use BOM standard M5x10 screws rather than M5x8
+	- Adjusted geometry of built-in support for cartridge heatset insert. Should be easier to remove with pliers.
+	- CAD updated
 
 ## BOM (per Nevermore)
 
-M5x8 screws x2
+- M5x10 screws x2
 
-M5 roll-in t-nut/hammerhead nut x2
+- M5 roll-in t-nut/hammerhead nut x2
 
-M3x5x4 (Standard Voron size) Heatset Inserts x3 
+- M3x5x4 (Standard Voron size) Heatset Inserts x3 
 
-M3x8 screws x1
+- M3x8 screws x1
 
-M3x12 screws x2
+- M3x12 screws x2
 
-3-slot Wago 221s x2
+- 3-slot Wago 221s x2
 
-24 AWG wiring
+- 24 AWG wiring
 
-## Assembly - WIP
+## Assembly
 
-1. Install and wire 5015 fans according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket.
+1. Install and wire 5015 fans according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket. There will not be enough space to run wiring or connect JST after mounting nevermore onto bracket.
 
 2. Glue magnets in place on both plenum and cartridge bodies.
 
-3. Insert two M3 heatset inserts on mounting bracket and one at the rear of the plenum.
+3. Insert two M3 heatset inserts on mounting bracket, one at the rear of plenum, and one in the cartridge. Removable support under the heatset can be removed with pliers. 
 
 4. Install 3-slot Wagos onto bracket (if you will use them).
 
