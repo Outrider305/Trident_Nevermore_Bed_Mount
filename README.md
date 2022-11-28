@@ -18,10 +18,14 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 ## Change Log
 
+- **11-28-2022**
+	- Updated Plenum body STL. Removed chamfer on M3 holes for 5015 screws and replaced with crosshatch bridging.
+	- CAD updated.
 - **11-24-2022**
-	- Updated brackets to use BOM standard M5x10 screws rather than M5x8
+	- Updated brackets to use BOM standard M5x10 screws rather than M5x8.
 	- Adjusted geometry of built-in support for cartridge heatset insert. Should be easier to remove with pliers.
-	- CAD updated
+	- CAD updated.
+
 
 ## BOM (per Nevermore)
 
@@ -34,6 +38,8 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 - M3x8 screws x1
 
 - M3x12 screws x2
+
+- M3x16 x4
 
 - 3-slot Wago 221s x2
 
