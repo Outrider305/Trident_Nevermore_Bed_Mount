@@ -1,12 +1,14 @@
 # Trident_Nevermore_Bed_Fans
 
-# WIP - Undergoing initial test prints. Bracket and plenum fit confirmed to fit. Printing out cartridges for magnet strength testing.
+# Testing Update: Nevermore Bed Fans installed. Minor updates planned for bracket to make installation easier.
 
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
-<img src="Images/trident_nevermore_magnets.png" width="700">
+<img src="Images/Final_Install.JPEG" width="700">
 
 Total redesign of my original Nevermore Spacer Mount for Voron Tridents. This version utilizes it's own modded V5 Duo plenum and cartridges with a third set of magnets. I found that any slight bump or the occasional z-hop with the original parts would cause a cartridge loaded with carbon to fall off the plenum. Hopefully the added magents will solve that problem.
+
+<img src="Images/V1_V2_comparison.JPEG" width="700">
 
 Intake orientation for the Nevermore has been inverted to draw cooler air from below the bed. This will help extend the use life of the carbon,<a href="https://discord.com/channels/1017933489779245137/1018610421311225966/1036338929097523210"> per this post on the Nevermore Discord. </a>
 
@@ -37,19 +39,23 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 - 24 AWG wiring
 
-## Assembly
+## Assembly - WIP
 
 1. Install and wire 5015 fans according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket. There will not be enough space to run wiring or connect JST after mounting nevermore onto bracket.
 
 2. Glue magnets in place on both plenum and cartridge bodies.
 
-3. Insert two M3 heatset inserts on mounting bracket, one at the rear of plenum, and one in the cartridge. Removable support under the heatset can be removed with pliers. 
+3. Insert two M3 heatset inserts on mounting bracket, one at the rear of plenum, and one in the cartridge. Print-in-place support under the cartridge heatset can be removed with pliers. 
 
 4. Install 3-slot Wagos onto bracket (if you will use them).
 
-5. Mount bracket onto Trident bed extrusion with M5 screws, but don't fully tighten them. You can then adjust bracket positioning according to your bed size and cartridge size.
+5. Install M3x12 screws into side mounting points on Nevermore Plenum. Keep loose until final fitting.
 
-6. Run additional 24V+ and 24V- wires through the Z chain to the Nevermore wagos. Details below.
+5. Mount bracket onto Trident bed extrusion with M5 screws, but don't fully tighten them. You will need to adjust bracket position according to your bed size and cartridge size.
+
+6. Once you have found your optimal bracket position, tighten M5 screws. Plenum body will be able to [swing away](Images/Install_procedure.JPEG) for access to M5 screws.
+
+7. Run additional 24V+ and 24V- wires through the Z chain to the Nevermore wagos. Details below.
 
 ## Power
 
