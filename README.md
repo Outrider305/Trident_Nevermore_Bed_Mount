@@ -26,6 +26,11 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 	- Updated brackets to use BOM standard M5x10 screws rather than M5x8.
 	- Adjusted geometry of built-in support for cartridge heatset insert. Should be easier to remove with pliers.
 	- CAD updated.
+	
+## Recommended Print Settings and Material
+
+- Standard Voron part settings (4 walls, 5 top and bottom layers, 40% infill)
+- ABS or ASA recommended for this mod. I haven't had good experience with ABS+, so I can't guarantee the bracket won't sag if you use ABS+.
 
 
 ## BOM (per Nevermore)
