@@ -9,7 +9,8 @@
 Total redesign of my original Nevermore Spacer Mount for Voron Tridents. This version utilizes it's own modded V5 Duo plenum and cartridges with a third set of magnets. I found that any slight bump or the occasional z-hop with the original parts would cause a cartridge loaded with carbon to fall off the plenum. Hopefully the added magents will solve that problem.
 
 <img src="Images/V1_V2_comparison.JPEG" width="700">
-*Original mount LEFT, New mount Right*
+*Original mount left, new mount right.*
+
 
 Intake orientation for the Nevermore has been inverted to draw cooler air from below the bed. This will help extend the use life of the carbon,<a href="https://discord.com/channels/1017933489779245137/1018610421311225966/1036338929097523210"> per this post on the Nevermore Discord. </a>
 
@@ -30,7 +31,7 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 ## Recommended Print Settings and Material
 
 - Standard Voron part settings (4 walls, 5 top and bottom layers, 40% infill)
-- ABS or ASA recommended for this mod. I haven't had good experience with ABS+, so I can't guarantee the bracket won't sag if you use ABS+.
+- ABS or ASA recommended for this mod. I haven't had good experience with eSun ABS+, so I can't guarantee the bracket won't sag if you use ABS+. Each manufacturer is different.
 
 
 ## BOM (per Nevermore)
