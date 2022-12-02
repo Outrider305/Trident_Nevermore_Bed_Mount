@@ -9,6 +9,7 @@
 Total redesign of my original Nevermore Spacer Mount for Voron Tridents. This version utilizes it's own modded V5 Duo plenum and cartridges with a third set of magnets. I found that any slight bump or the occasional z-hop with the original parts would cause a cartridge loaded with carbon to fall off the plenum. Hopefully the added magents will solve that problem.
 
 <img src="Images/V1_V2_comparison.JPEG" width="700">
+
 **Original mount left, new mount right.**
 
 
