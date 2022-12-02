@@ -1,4 +1,4 @@
-# Trident_Nevermore_Bed_Fans
+# Trident_Nevermore_Bed_Mount
 
 # Testing Update: Nevermore Bed Fans installed. Minor updates planned for bracket to make installation easier.
 
