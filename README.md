@@ -54,9 +54,11 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 - 24 AWG wiring
 
-## Assembly - WIP
+## Assembly and Installation - WIP
 
-1. Install and wire 5015 fans according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket. There will not be enough space to run wiring or connect JST after mounting nevermore onto bracket.
+** Removal of Trident bed is recommended for easier access.**
+
+1. Install and wire 5015 fans in the plenum according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket. There will not be enough space to run wiring or connect JST after mounting nevermore onto bracket.
 
 2. Glue magnets in place on both plenum and cartridge bodies.
 
@@ -68,7 +70,7 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 5. Mount bracket onto Trident bed extrusion with M5 screws, but don't fully tighten them. You will need to adjust bracket position according to your bed size and cartridge size.
 
-6. Once you have found your optimal bracket position, tighten M5 screws. Plenum body will be able to [swing away](Images/Install_procedure.JPEG) for access to M5 screws.
+6. Once you have found your chosen bracket position, tighten M5 screws. Plenum body will be able to [swing away](Images/Install_procedure.JPEG) for access to M5 screws.
 
 7. Run additional 24V+ and 24V- wires through the Z chain to the Nevermore wagos. Details below.
 
