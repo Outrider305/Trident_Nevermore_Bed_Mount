@@ -22,7 +22,7 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 ## Change Log
 
-- ** 02-19-2023**
+- ** 02-19-2023 **
 	- Added new untested bracket to Experimental folder in STLs. New bracket has improved M5 mounting points and replaces the single M3x8 screw with M3x12.
 - **11-28-2022**
 	- Updated Plenum body STL. Removed chamfer on M3 holes for 5015 screws and replaced with crosshatch bridging.
