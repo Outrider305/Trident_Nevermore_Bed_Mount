@@ -22,7 +22,7 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 ## Change Log
 
-- ** 02-19-2023 **
+- **02-19-2023**
 	- Added new untested bracket to Experimental folder in STLs. New bracket has improved M5 mounting points and replaces the single M3x8 screw with M3x12.
 - **11-28-2022**
 	- Updated Plenum body STL. Removed chamfer on M3 holes for 5015 screws and replaced with crosshatch bridging.
@@ -58,11 +58,11 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 ## Assembly and Installation - WIP
 
-** Removal of Trident bed is recommended for easier access.**
+**Removal of Trident bed is recommended for easier access.**
 
 1. Install and wire 5015 fans in the plenum according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket. There will not be enough space to run wiring or connect JST after mounting nevermore onto bracket.
 
-2. Glue magnets in place on both plenum and cartridge bodies. ** VERY IMPORTANT: Do not press magnets in too far. Make sure magnets are flush Pushing magnet in too far will create a weak connection. **
+2. Glue magnets in place on both plenum and cartridge bodies. **VERY IMPORTANT: Do not press magnets in too far. Make sure magnets are flush Pushing magnet in too far will create a weak connection.**
 
 3. Insert two M3 heatset inserts on mounting bracket, one at the rear of plenum, and one in the cartridge. Print-in-place support under the cartridge heatset can be removed with pliers. 
 
