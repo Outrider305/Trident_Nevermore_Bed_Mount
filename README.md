@@ -1,6 +1,6 @@
 # Trident_Nevermore_Bed_Mount
 
-# Testing Update: Nevermore Bed Fans installed. Minor updates planned for bracket to make installation easier.
+# Update: New Bracket with minor improvements is ready. Won't be uploaded until I have tested it myself. Contact me if you want to use it.
 
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
