@@ -1,6 +1,6 @@
 # Trident_Nevermore_Bed_Mount
 
-# Update: New Bracket with minor improvements is ready. Won't be uploaded until I have tested it myself. Contact me if you want to use it.
+# Update: New bracket revision added to Experimental folder in STLs.
 
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
@@ -22,6 +22,8 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 ## Change Log
 
+- ** 02-19-2023**
+	- Added new untested bracket to Experimental folder in STLs. New bracket has improved M5 mounting points and replaces the single M3x8 screw with M3x12.
 - **11-28-2022**
 	- Updated Plenum body STL. Removed chamfer on M3 holes for 5015 screws and replaced with crosshatch bridging.
 	- CAD updated.
@@ -44,7 +46,7 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 - M3x5x4 (Standard Voron size) Heatset Inserts x3 
 
-- M3x8 screws x1
+- M3x8 screws x1 (not needed on experimental bracket)
 
 - M3x12 screws x2
 
@@ -60,7 +62,7 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 1. Install and wire 5015 fans in the plenum according to your preference. If using JST XH connectors, it must be connected before mounting the plenum on the bracket. There will not be enough space to run wiring or connect JST after mounting nevermore onto bracket.
 
-2. Glue magnets in place on both plenum and cartridge bodies.
+2. Glue magnets in place on both plenum and cartridge bodies. ** VERY IMPORTANT: Do not press magnets in too far. Make sure magnets are flush Pushing magnet in too far will create a weak connection. **
 
 3. Insert two M3 heatset inserts on mounting bracket, one at the rear of plenum, and one in the cartridge. Print-in-place support under the cartridge heatset can be removed with pliers. 
 
