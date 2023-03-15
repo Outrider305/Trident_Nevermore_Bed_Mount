@@ -1,7 +1,5 @@
 # Trident_Nevermore_Bed_Mount
 
-# Update: New bracket revision added to Experimental folder in STLs.
-
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
 <img src="Images/Final_Install.JPEG" width="700">
@@ -22,6 +20,9 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 ## Change Log
 
+- **03/15/2023**
+	- Moved revised bracket mount out of experimental into main STL folder. Removed previous version.
+	- Fixed clearance issue with plenum lid.
 - **02-19-2023**
 	- Added new untested bracket to Experimental folder in STLs. New bracket has improved M5 mounting points and replaces the single M3x8 screw with M3x12.
 - **11-28-2022**
@@ -44,11 +45,9 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 - M5 roll-in t-nut/hammerhead nut x2
 
-- M3x5x4 (Standard Voron size) Heatset Inserts x3 
+- M3x5x4 (Standard Voron size) Heatset Inserts x7 
 
-- M3x8 screws x1 (not needed on experimental bracket)
-
-- M3x12 screws x2
+- M3x12 screws x3
 
 - M3x16 x4
 
@@ -64,15 +63,15 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 
 2. Glue magnets in place on both plenum and cartridge bodies. **VERY IMPORTANT: Do not press magnets in too far. Make sure magnets are flush Pushing magnet in too far will create a weak connection.**
 
-3. Insert two M3 heatset inserts on mounting bracket, one at the rear of plenum, and one in the cartridge. Print-in-place support under the cartridge heatset can be removed with pliers. 
+3. Insert M3 heatset inserts on sides of the mounting bracket, at the rear of plenum body, and one in the cartridge. Print-in-place support under the cartridge heatset can be removed with pliers. 
 
 4. Install 3-slot Wagos onto bracket (if you will use them).
 
-5. Install M3x12 screws into side mounting points on Nevermore Plenum. Keep loose until final fitting.
+5. Mount Plenum onto bracket using M3x12 screws.
 
 5. Mount bracket onto Trident bed extrusion with M5 screws, but don't fully tighten them. You will need to adjust bracket position according to your bed size and cartridge size.
 
-6. Once you have found your chosen bracket position, tighten M5 screws. Plenum body will be able to [swing away](Images/Install_procedure.JPEG) for access to M5 screws.
+6. Once you have found your ideal bracket position, tighten M5 screws.
 
 7. Run additional 24V+ and 24V- wires through the Z chain to the Nevermore wagos. Details below.
 
