@@ -2,9 +2,18 @@
 
 <img src="Images/Trident_Nevermore_Bed_Fans.png" width="700">
 
-<img src="Images/Final_Install.JPEG" width="700">
-
 Total redesign of my original Nevermore Spacer Mount for Voron Tridents. This version utilizes it's own modded V5 Duo plenum and cartridges with a third set of magnets. I found that any slight bump or the occasional z-hop with the original parts would cause a cartridge loaded with carbon to fall off the plenum. Hopefully the added magents will solve that problem.
+
+## Long-term use findings.
+
+It's been about one year since I updated this mod and I've learned more about airflow and carbon filtration since then. As such, here are my findings and last update:
+
+- This mod does not do well in toasty chamber temps. My Trident settles around 68C+, and after a year, the brackets and the nevermores have severely warped.
+- ABS/ASA still warped even though I have kinematic bed mounts, so the nevermores were farther away from the bed than most Tridents.
+- If you still want to print this mod, I recommend any material that has a higher temp rating than ABS/ASA.
+- Regular carbon does not do well over 60C chamber temp, so this mod would require 100% use of Nevermore Scortch pellets or a generic substitute.
+- Fulling loading the charcoal basket severely cuts down on air flow.
+- There are better methods for both VOC filtering and bed fans. Experimenting with this mod was fun while it lasted.
 
 ## Version 1 and 2 Comparison
 
@@ -36,8 +45,7 @@ There is also now one mounting bracket for all Trident sizes and will reduce fil
 ## Recommended Print Settings and Material
 
 - Standard Voron part settings (4 walls, 5 top and bottom layers, 40% infill)
-- ABS or ASA recommended for this mod. I haven't had good experience with eSun ABS+, so I can't guarantee the bracket won't sag if you use ABS+. Each manufacturer is different.
-
+- <s> ABS or ASA recommended for this mod. </s> **If you want to print this mod, you need something more heat resistant than ABS/ASA.** 
 
 ## BOM (per Nevermore)
 
